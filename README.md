@@ -2,16 +2,16 @@
 
 ShopKaro is a Django-based web application designed for grocery shopping. It includes separate interfaces for users and administrators, enabling a seamless experience for both buying and managing groceries.
 
-## Project Summary
-
-ShopKaro is a robust and user-friendly web application developed using Django, Python, HTML, CSS, and Bootstrap technologies. The application is designed to streamline the grocery shopping experience, offering distinct interfaces for users and administrators.
-
 ## Technologies Used
 
 - **Framework:** Django
 - **Database:** SQLite
 - **Programming Language:** Python
 - **Front-end:** HTML, CSS, Bootstrap
+
+## Project Summary
+
+ShopKaro is a robust and user-friendly web application developed using Django, Python, HTML, CSS, and Bootstrap technologies. The application is designed to streamline the grocery shopping experience, offering distinct interfaces for users and administrators.
 
 ## Features
 
@@ -29,12 +29,12 @@ ShopKaro is a robust and user-friendly web application developed using Django, P
 ## Usage
 - **User Interface:**
 
-Explore groceries, add items to the cart, and complete the checkout process.
+       - Explore groceries, add items to the cart, and complete the checkout process.
 
 - **Admin Interface:**
 
-Manage the inventory by adding, updating, or deleting grocery items.
-Process customer orders seamlessl
+        -Manage the inventory by adding, updating, or deleting grocery items.
+        -Process customer orders seamlessl
 
 ## Acknowledgements
 - Special thanks to the Django community for the powerful web framework.
